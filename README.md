@@ -6,17 +6,29 @@ For more my professional experience, please refer to my [LinkedIn profile](https
 
 ## Some work I have done
 
-Employed by [CESS](https://cess.network/):
-  - As a developer relation team member, contributed to developing and setting up the first version of [CESS Documentation](https://doc.cess.network).
-  - Delivered the first cohort of [CESS Course](https://course.cess.network).
+In 2025 Q1, delivered **Anonymous Multi-sig wallet with Semaphore MSA Modules** with [PSE grant support](https://github.com/privacy-scaling-explorations/acceleration-program/issues/72)
+  - [source code](https://github.com/jimmychu0807/semaphore-msa-modules) (both smart contracts and front end)
+  - 🌐 [project website](https://semaphore-msa-modules.jimmychu0807.hk/)
+  - 🎥 [demo video](https://www.loom.com/share/0b800171a4f1491f9eedd4f555569e37?sid=0c2d3024-5652-499e-b374-218023da581b)
+  - 📜 [write up](https://jimmychu0807.hk/semaphore-msa-modules)
+
+In 2024 Q3, completed [**PSE Core Program**](https://pse.dev/en/programs) to gain a deeper understanding on programmable cryptography
+  - capstone project: [Number Guessing Game](https://github.com/jimmychu0807/number-guessing-game) using circom to write the circuit to generate zk-proof
+  - 🌐 [project website](https://guessing.jimmychu0807.hk)
+  - 🎥 [demo video](https://www.youtube.com/watch?v=MrhGMfzsAX0)
+  - 📜 [write up](https://jimmychu0807.hk/pse-core-capstone-project)
+
+Employed by [CESS Network](https://cess.network/):
+  - As a developer relation partner, helped come up with the developers onboarding strategy.
+  - Helped to structure and launch the first version of [CESS Documentation](https://doc.cess.network).
+  - Setup [CESS Course](https://course.cess.network) materials and delivered training to the first cohort students.
 
 Employed by [Parity](https://www.parity.io/):
-  - As a developer advocate, contributed to [Substrate Front-end Template](https://github.com/jimmychu0807/substrate-front-end-template), [Substrate Node Template](https://docs.substrate.io/reference/command-line-tools/node-template/), Substrate Off-chain worker demo, etc. to highlight Substrate features.
+  - As a developer relation engineer, contributed to [Substrate Front-end Template](https://github.com/jimmychu0807/substrate-front-end-template), [Substrate Node Template](https://docs.substrate.io/reference/command-line-tools/node-template/), Substrate Off-chain worker demo, etc. to highlight Substrate features.
   - Contributed to the [Substrate Documentation](https://docs.substrate.io/).
   - Ran numerous AMAs, hackathons in Asian countries.
 
 ## Some courses / training programs I have taken
 
-- [PSE Core Program](https://pse.dev/en/programs): and deliver the capstone project [Number Guessing Game](https://github.com/jimmychu0807/PSE-core-capstone).
 - [Coursera: Stanford Cryptography I](https://www.coursera.org/learn/crypto).
 - [Consensys Ethereum Developer Program Bootcamp](https://consensys.io/academy/bootcamp).
