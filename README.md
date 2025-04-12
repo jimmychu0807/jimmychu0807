@@ -1,4 +1,7 @@
 ## Overview
+![Github statistics](https://github-readme-stats.vercel.app/api?username=jimmychu0807&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&show_icons=true&theme=graywhite)
+![Github top languages](https://github-readme-stats.vercel.app/api/top-langs?username=jimmychu0807&locale=en&layout=compact&hide_border=true&theme=graywhite)
+![Github profile trophy](https://github-profile-trophy.vercel.app/?username=jimmychu0807&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B&theme=flat)
 
 I am interested in web3 and cryptographic development, working between crypto investment (the fact that I spend my time in this industry is an investment) and programmable cryptography. Excited about building services and applications that honor user privacy and are cryptographically unbreakable or very costly to break. Wish the world would become freer and more democratic as human civilization advances.
 
