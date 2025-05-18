@@ -1,4 +1,5 @@
 ## Overview
+
 ![Github statistics](https://github-readme-stats.vercel.app/api?username=jimmychu0807&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&show_icons=true&theme=graywhite)
 ![Github top languages](https://github-readme-stats.vercel.app/api/top-langs?username=jimmychu0807&locale=en&layout=compact&hide_border=true&theme=graywhite)
 
@@ -6,7 +7,7 @@ I am interested in web3 and cryptographic development, working between crypto in
 
 For more my professional experience, please refer to my [LinkedIn profile](https://www.linkedin.com/in/jimmychu0807).
 
-## Some work I have done
+## Work/Projects completed 
 
 In 2025 Q2, implemented **Analytics dApp built on Zama fhEVM** in respond to Zama Bounty - [Build a Confidential Benchmarking and Polling System Onchain using fhEVM](https://github.com/zama-ai/bounty-program/issues/144)
   - [source code](https://github.com/jimmychu0807/analytics-dapp-zama) (both smart contracts and front end)
@@ -36,7 +37,7 @@ Employed by [Parity](https://www.parity.io/), 2019 - 2022:
   - Contributed to the [Substrate Documentation](https://docs.substrate.io/).
   - Ran numerous AMAs, hackathons in Asian countries.
 
-## Some courses / training programs I have taken
+## Courses completed
 
 - [Coursera: Stanford Cryptography I](https://www.coursera.org/learn/crypto).
 - [Consensys Ethereum Developer Program Bootcamp](https://consensys.io/academy/bootcamp).
