@@ -9,13 +9,13 @@ For more my professional experience, please refer to my [LinkedIn profile](https
 
 ## Work/Projects completed 
 
-In 2025 Q2, implemented **Analytics dApp built on Zama fhEVM**. This analytics dApp leverages fully homomorphic encryption (TFHE scheme), using fhEVM library, to encrypt respondent answers and perform aggregate analysis. The project is in response to Zama Bounty [Build a Confidential Benchmarking and Polling System Onchain using fhEVM](https://github.com/zama-ai/bounty-program/issues/144)
+In 2025 Q2, implemented **Analytics dApp built on Zama fhEVM**. This analytics dApp leverages fully homomorphic encryption (TFHE scheme), using fhEVM library, to encrypt respondent answers and perform aggregate analysis. The project is in response to Zama Bounty [Build a Confidential Benchmarking and Polling System Onchain using fhEVM](https://github.com/zama-ai/bounty-program/issues/144).
   - [source code](https://github.com/jimmychu0807/analytics-dapp-zama) (both smart contracts and front end)
   - 🌐 [project website](https://analytics-zama.vercel.app)
   - 🎥 [demo video](https://www.loom.com/share/13061bce424e4bed9d7f7551d3f5f33d)
   - 📜 [write up](https://jimmychu0807.hk/analytics-zama)
 
-In 2025 Q1, delivered **Anonymous Multi-sig wallet with Semaphore MSA Modules**. The project uses Semahore protocol to generate a zero-knowledge proof to represent a member endorsement on a transaction within a group. The project is supported by [PSE grant](https://github.com/privacy-scaling-explorations/acceleration-program/issues/72)/[Ethereum Foundation](https://blog.ethereum.org/2025/02/06/allocation-q4-24#:~:text=Semaphore%20Modular%20Smart%20Contract%20Validator%20Module)
+In 2025 Q1, delivered **Anonymous Multi-sig wallet with Semaphore MSA Modules**. The project uses Semahore protocol to generate a zero-knowledge proof to represent a member endorsement on a transaction within a group. The project is supported by [PSE grant](https://github.com/privacy-scaling-explorations/acceleration-program/issues/72) / [Ethereum Foundation](https://blog.ethereum.org/2025/02/06/allocation-q4-24#:~:text=Semaphore%20Modular%20Smart%20Contract%20Validator%20Module).
   - [source code](https://github.com/jimmychu0807/semaphore-msa-modules) (both smart contracts and front end)
   - 🌐 [project website](https://semaphore-msa-modules.jimmychu0807.hk/)
   - 🎥 [demo video](https://www.loom.com/share/0b800171a4f1491f9eedd4f555569e37)
@@ -32,7 +32,7 @@ Employed by [CESS Network](https://cess.network/), 2023 - 2024:
   - Setup [CESS Course](https://course.cess.network) materials and delivered training to the first cohort students.
 
 Employed by [Parity](https://www.parity.io/), 2019 - 2022:
-  - As a developer relation engineer, contributed to [Substrate Front-end Template](https://github.com/jimmychu0807/substrate-front-end-template), [Substrate Node Template](https://docs.substrate.io/reference/command-line-tools/node-template/), Substrate Off-chain worker demo, etc. to highlight Substrate features.
+  - As a developer relation engineer of [**Polkadot**](https://polkadot.com/), contributed to [Substrate Front-end Template](https://github.com/jimmychu0807/substrate-front-end-template), [Substrate Node Template](https://docs.substrate.io/reference/command-line-tools/node-template/), Substrate Off-chain worker demo, etc. to highlight Substrate features.
   - Contributed to the [Substrate Documentation](https://docs.substrate.io/).
   - Ran numerous AMAs, hackathons in Asian countries.
 
