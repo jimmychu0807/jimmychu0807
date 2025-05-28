@@ -7,7 +7,7 @@ I am passionate about Web3 and cryptographic development, with a current focus o
 
 For my professional experience, please refer to my [LinkedIn profile](https://www.linkedin.com/in/jimmychu0807).
 
-## Key technical experience
+## Key technical skills
 
 Solidity, Hardhat, Foundry, zk-SNARKs, Circom, Semaphore, FHE, TFHE, TypeScript, Next.js, React, ERC-4337 Account Abstraction, Rust.
 
@@ -29,7 +29,7 @@ Solidity, Hardhat, Foundry, zk-SNARKs, Circom, Semaphore, FHE, TFHE, TypeScript,
   - 🎥 [demo video](https://www.loom.com/share/0b800171a4f1491f9eedd4f555569e37)
   - 📜 [write up](https://jimmychu0807.hk/semaphore-msa-modules)
 
-  *Key skills*: zero-knowledge, Semaphore, Solidity, Foundry, [ERC-4337](https://www.erc4337.io/), [ERC-7579](https://erc7579.com/), Rhinestone [modulekit](https://docs.rhinestone.dev/build-modules/overview), Pimlico permissionless, React, next.js
+  *Key skills*: zero-knowledge, Semaphore, Solidity, Foundry, [ERC-4337](https://www.erc4337.io/), [ERC-7579](https://erc7579.com/), Rhinestone [modulekit](https://docs.rhinestone.dev/build-modules/overview), Pimlico =permissionless, React, next.js
 
 - In 2024 Q3, completed [**PSE Core Program**](https://pse.dev/en/programs) to gain a deeper understanding on programmable cryptography. At the end of the program, delivered capstone project **Number Guessing Game**, a game that awards player making a guess closest to participants' mean, using zero-knowledge proof written with circom toolchain.
   - 🧑🏻‍💻 [source code](https://github.com/jimmychu0807/number-guessing-game)
@@ -59,7 +59,7 @@ Solidity, Hardhat, Foundry, zk-SNARKs, Circom, Semaphore, FHE, TFHE, TypeScript,
   - Built tutorials and demo projects to demonstrate Substrate/Polkadot features to new developers.
   - Created Substrate course content.
 
-## Courses completed
+## Bootcamps / training programs completed
 
 - [PSE Core Program](https://pse.dev/en/programs), study on programmable cryptography.
 - [Rareskill Zero Knowledge Bootcamp](https://www.rareskills.io/zk-bootcamp), study on Groth16.
