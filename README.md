@@ -13,6 +13,14 @@ Solidity, Hardhat, Foundry, zk-SNARKs, Circom, Semaphore, FHE, TFHE, TypeScript,
 
 ## Project experience
 
+- In 2025 Q3, participated in [**Ethereum Protcol Fellowship - Cohort 6**](https://blog.ethereum.org/2025/04/10/epf-6), and integrated zkVM Brevis Pico into Ethereum Client [Grandine](https://github.com/grandinetech/grandine) to benchmark Ethereum state transition function.
+
+  - [Main Grandine integration PR](https://github.com/grandinetech/grandine/pull/386).
+  - Accompanied PRs on [bls12_381](https://github.com/grandinetech/universal-precompiles/pull/4) and [sha256](https://github.com/grandinetech/universal-precompiles/pull/3).
+
+  *Key skills*: zkVM ([Brevis Pico](https://docs.brevis.network/), RiscZero VM, Succinct SP1), Ethereum client (Grandine, Ream), Ethereum spec &
+testing process ([consensus-specs](https://ethereum.github.io/consensus-specs/), [execution-specs](https://eest.ethereum.org/main/), [Kurtosis ethereum package](https://github.com/ethpandaops/ethereum-package)), Rust
+
 - In 2025 Q2, implemented **Analytics dApp built on Zama fhEVM**. This analytics dApp leverages fully homomorphic encryption (TFHE scheme), using [fhEVM](https://docs.zama.ai/fhevm) library, to encrypt respondent answers and perform aggregate analysis. The project was submitted to [Zama Bounty Season 8](https://github.com/zama-ai/bounty-program/issues/144) and **won 2nd-place**.
 
   🧑🏻‍💻 [source code](https://github.com/jimmychu0807/analytics-dapp-zama) | 🌐 [project website](https://analytics-zama.vercel.app) | 🎥 [demo video](https://www.loom.com/share/13061bce424e4bed9d7f7551d3f5f33d) | 📜 [write up](https://jimmychu0807.hk/analytics-zama)
