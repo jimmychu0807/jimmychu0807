@@ -13,6 +13,14 @@ Solidity, Hardhat, Foundry, zk-SNARKs, Circom, Semaphore, FHE, TFHE, TypeScript,
 
 ## Project experience
 
+- In 2025 Q3, participated in [**Ethereum Protcol Fellowship - Cohort 6**](https://blog.ethereum.org/2025/04/10/epf-6), and integrated zkVM Brevis Pico into Ethereum Client [Grandine](https://github.com/grandinetech/grandine) to benchmark Ethereum state transition function.
+
+  - [Main Grandine integration PR](https://github.com/grandinetech/grandine/pull/386).
+  - Accompanied PRs on [bls12_381](https://github.com/grandinetech/universal-precompiles/pull/4) and [sha256](https://github.com/grandinetech/universal-precompiles/pull/3).
+
+  *Key skills*: zkVM ([Brevis Pico](https://docs.brevis.network/), RiscZero VM, Succinct SP1), Ethereum client (Grandine, Ream), Ethereum spec &
+testing process ([consensus-specs](https://ethereum.github.io/consensus-specs/), [execution-specs](https://eest.ethereum.org/main/), [Kurtosis ethereum package](https://github.com/ethpandaops/ethereum-package)), Rust
+
 - In 2025 Q2, implemented **Analytics dApp built on Zama fhEVM**. This analytics dApp leverages fully homomorphic encryption (TFHE scheme), using [fhEVM](https://docs.zama.ai/fhevm) library, to encrypt respondent answers and perform aggregate analysis. The project was submitted to [Zama Bounty Season 8](https://github.com/zama-ai/bounty-program/issues/144) and **won 2nd-place**.
 
   🧑🏻‍💻 [source code](https://github.com/jimmychu0807/analytics-dapp-zama) | 🌐 [project website](https://analytics-zama.vercel.app) | 🎥 [demo video](https://www.loom.com/share/13061bce424e4bed9d7f7551d3f5f33d) | 📜 [write up](https://jimmychu0807.hk/analytics-zama)
@@ -34,24 +42,22 @@ Solidity, Hardhat, Foundry, zk-SNARKs, Circom, Semaphore, FHE, TFHE, TypeScript,
 ## Professional experience
 
 - **Advisor on Developer Relations** | [CESS Network](https://cess.network/), 2023 - 2024:
-  - Researched architectural details of the CESS storage protocol to inform product and community documentation initiatives.
-  - Launched the v1 documentation portal, providing an accessible entry-point for developers and accelerating project onboarding.
-  - Developed and structured course curriculum for CESS, leading to the successful launch of the inaugural developer education cohort.
-  - Provided Polkadot-sdk technical guidance and actionable feedback to the core development team.
+  - **Launched the v1 of [documentation portal](https://doc.cess.network/)**, providing an accessible entry-point for developers and accelerating project onboarding.
+  - **Developed the [course curriculum for CESS](https://www.notion.so/jimmychu0807/Web3-dApp-Developer-DevRel-Engineer-Jimmy-Chu-21eecd98293b80228a59e89f6a48c9ab?source=copy_link#21eecd98293b81599f12d9109aaa137f)**, and **ran the first cohort** to on-board developer.
+  - Designed and monitored the **developer on-boarding funnel, on-boarding 200+ developers** to the platform.
+  - Delivered high-impact talk in **Polkadot Blockchain Academy HK 2024** in front of 100+ students.
 
 - **Lead of Developer Relations** | [AltLayer](https://www.altlayer.io/), 2022:
-  - Conducted market research of L2 scaling solutions and contributed to the Ethereum Layer 2 app-chain protocol with rollup capabilities using [polkadot-sdk](https://github.com/paritytech/polkadot-sdk).
-  - Authored and maintained core platform documentation, streamlining knowledge transfer within the engineering and developer community.
-  - Built hands-on demos and tutorials to illustrate platform capabilities to prospective developers and partners.
-  - Facilitated early adoption through technical presentations and community engagement.
+  - Architected and implemented the core EVM-compatible rollup protocol stack, utilizing **polkadot-sdk** and Rust as the foundation.
+  - **Delivered cross-chain bridges** supporting ERC-20/ERC-721 transfer logic, work with DevOp team to manage production deployments.
+  - Conducted online and offline workshops and **represented my employer on ETHGlobal hackathons**.
+  - Authored and maintained **core platform documentation**.
 
 - **Developer Relation Engineer** | [Parity Technologies](https://www.parity.io/), 2019 - 2022:
-  - Expanded Polkadot/Web3 developer community in China and Asia, organizing 10+ AMAs and hackathons
-across in-person and virtual formats.
-  - Contributed substantively to the Substrate SDK and documentation, enhancing its adoption and usability for global developer audiences.
-  - Developed tutorials and demo projects to demonstrate Substrate/Polkadot features and onboard new
-developers efficiently.
-  - Created educational content customized for the Asia-Pacific ecosystem, increasing regional engagement.
+  - **Developed tutorials and demo projects** to highlight platform features.
+  - **Launched a multi-series online course** to demonstrate Substrate/Polkadot features and onboard new developers efficiently.
+  - Expanded Polkadot/Web3 developer community, **organizing 15+ AMAs and hackathons across Asia. On-boarded 500+ developers.**
+  - Maintain key relationships with Asia/China VCs and **liaise between VC and 10+ ecosystem teams** in hackathon and industry conferences.
 
 ## Bootcamps / training programs completed
 
