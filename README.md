@@ -1,7 +1,7 @@
 ## Overview
-
-![Github statistics](https://github-readme-stats.vercel.app/api?username=jimmychu0807&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&show_icons=true&theme=graywhite)
-![Github top languages](https://github-readme-stats.vercel.app/api/top-langs?username=jimmychu0807&locale=en&layout=compact&hide_border=true&theme=graywhite)
+| GitHub statistics | Top languages |
+| ----------------- | ------------- |
+| ![Github statistics](https://github-readme-stats-one-taupe-15.vercel.app/api?username=jimmychu0807&show_icons=true) | ![Github top languages](https://github-readme-stats-one-taupe-15.vercel.app/api/top-langs/?username=jimmychu0807&layout=compact&langs_count=5) |
 
 I am passionate about Web3 and cryptographic development, with a current focus on programmable cryptography — including zero-knowledge proofs (zk), fully homomorphic encryption (FHE), and multi-party computation (MPC) — at both theoretical and practical levels. I am excited by the challenge of building services and applications that prioritize user privacy and employ robust, cryptographically secure architectures. I envision a future where technology empowers a freer, more democratic society as human civilization evolves.
 
