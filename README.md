@@ -3,16 +3,27 @@
 ![Github statistics](https://github-readme-stats.vercel.app/api?username=jimmychu0807&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&show_icons=true&theme=graywhite)
 ![Github top languages](https://github-readme-stats.vercel.app/api/top-langs?username=jimmychu0807&locale=en&layout=compact&hide_border=true&theme=graywhite)
 
-I am passionate about Web3 and cryptographic development, with a current focus on programmable cryptography — including zero-knowledge proofs (zk), fully homomorphic encryption (FHE), and multi-party computation (MPC) — at both theoretical and practical levels. I am excited by the challenge of building services and applications that prioritize user privacy and employ robust, cryptographically secure architectures. I envision a future where technology empowers a freer, more democratic society as human civilization evolves.
+7+ years web3 developer specializing in smart contract, advanced cryptography (ZKP, FHE), and full-stack (smart contract + React front-end) development. On-boarded 500+ developers. Held 7 cohorts of multi-series courses. Organized Web3 Asia Summit for Polkadot ecosystem with 700+ attendants including VCs, startup teams, and node validators.
 
 For my professional experience, please refer to my [LinkedIn profile](https://www.linkedin.com/in/jimmychu0807).
 
-## Key technical skills
+## Technical Skills
 
-Solidity, Hardhat, Foundry, zk-SNARKs, Circom, Semaphore, FHE, TFHE, TypeScript, Next.js, React, ERC-4337 Account Abstraction, Rust.
+- Smart Contract: **Solidity** (5 yrs), **Foundry**, **Hardhat**, Tenderly txs simulator, account abstraction ERC-4337, ERC-7579, Pimlico permissionless, Rhinestone modulekit
+- System/Protocol: **Rust** (4 yrs)
+- Front end: **Typescript** (7 yrs), **Next.js/React**, wagmi, viem, ethers.js
+- DevOps: shell, Github CI, Docker, Vercel, AWS, Google Cloud
 
-## Project experience
+## Project Experience
 
+**Openzeppelin Ethernaut Solver**<br/>
+<i>2026 Jan - Mar</i>
+- Solved 90% of [Openzeppelin Ethernaut Puzzles](https://ethernaut.openzeppelin.com/) ([solutions repo](https://github.com/jimmychu0807/the-ethernaut))
+- Ranked #19 out of 9,978 participants on [the leaderboard](https://ethernaut.openzeppelin.com/leaderboard) (user: jimmychu0807)
+- Key skills: Solidity, Foundry, ECDSA Signature, Typescript
+
+**zkVM Integration on Ethereum Consensus Client (Ethereum Protocol Fellowship Cohort 6)**<br/>
+<i>2025 Aug - Dec</i>
 - In 2025 Q3, participated in [**Ethereum Protcol Fellowship - Cohort 6**](https://blog.ethereum.org/2025/04/10/epf-6), and integrated zkVM Brevis Pico into Ethereum Client [Grandine](https://github.com/grandinetech/grandine) to benchmark Ethereum state transition function.
 
   - [Main Grandine integration PR](https://github.com/grandinetech/grandine/pull/386).
