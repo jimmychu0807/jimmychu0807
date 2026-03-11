@@ -31,7 +31,7 @@ For my professional experience, please refer to my [LinkedIn profile](https://ww
 **Voting dApp on Zama fhEVM**<br/>
 <i>2025 Apr - May</i>
 - Built **privacy-preserving voting** dApp using Zama fhEVM. Respondent **answers are encrypted client-side** (FHE) with **aggregation/filter performed on-chain**
-- [Second-place winner](https://github.com/zama-ai/bounty-program#:~:text=%F0%9F%A5%88%202nd%20place%3A%20A%20submission%20by%20jimmychu0807), in Zama Bounty Program Season #8
+- [Second-place winner](https://github.com/zama-ai/bounty-program#:~:text=%F0%9F%A5%88%202nd%20place%3A%20A%20submission%20by%20jimmychu0807) in Zama Bounty Program Season #8
 - 🌐 [dApp website](https://analytics-zama.vercel.app) | 🧑🏻‍💻 [Github repo](https://github.com/jimmychu0807/analytics-dapp-zama)  | 🎥 [Demo video](https://www.loom.com/share/13061bce424e4bed9d7f7551d3f5f33d) | 📜 [Write up](https://jimmychu0807.hk/analytics-zama)
 - Key skills: Zama fhEVM, Hardhat, Next.js, wagmi, viem, FHE
 
@@ -49,29 +49,31 @@ For my professional experience, please refer to my [LinkedIn profile](https://ww
 - 🌐 [dApp website](https://guessing.jimmychu0807.hk) | 🧑🏻‍💻 [Github repo](https://github.com/jimmychu0807/number-guessing-game)  | 🎥 [Demo video](https://www.youtube.com/watch?v=MrhGMfzsAX0) | 📜 [Write up](https://jimmychu0807.hk/pse-core-capstone-project)
 - Key skills: Semaphore, Hardhat, Next.js, Circom 2, CircomJS
 
-## Professional experience
+## Professional Experience
 
-- **Advisor on Developer Relations** | [CESS Network](https://cess.network/), 2023 - 2024:
-  - **Launched the v1 of [documentation portal](https://doc.cess.network/)**, providing an accessible entry-point for developers and accelerating project onboarding.
-  - **Developed the [course curriculum for CESS](https://www.notion.so/jimmychu0807/Web3-dApp-Developer-DevRel-Engineer-Jimmy-Chu-21eecd98293b80228a59e89f6a48c9ab?source=copy_link#21eecd98293b81599f12d9109aaa137f)**, and **ran the first cohort** to on-board developer.
-  - Designed and monitored the **developer on-boarding funnel, on-boarding 200+ developers** to the platform.
-  - Delivered high-impact talk in **Polkadot Blockchain Academy HK 2024** in front of 100+ students.
+**Advisor on Developer Relations** | [CESS Network](https://cess.network/)<br/>
+<i>2023 May - 2024 Jun</i>
+- **Launched the v1 of [documentation portal](https://doc.cess.network/)**, providing an accessible entry-point for developers and accelerating project onboarding.
+- **Developed the [course curriculum for CESS](https://medium.com/@CESS_LAB/building-a-data-value-network-and-engaging-in-the-ecosystem-cess-course-now-open-for-all-79c56631061c)**, and **ran the first cohort** to on-board developer.
+- Designed and monitored the **developer on-boarding funnel, on-boarding 200+ developers** to the platform.
+- Delivered high-impact talk in **Polkadot Blockchain Academy HK 2024** in front of 100+ students.
 
-- **Lead of Developer Relations** | [AltLayer](https://www.altlayer.io/), 2022:
-  - Architected and implemented the core EVM-compatible rollup protocol stack, utilizing **polkadot-sdk** and Rust as the foundation.
-  - **Delivered cross-chain bridges** supporting ERC-20/ERC-721 transfer logic, work with DevOp team to manage production deployments.
-  - Conducted online and offline workshops and **represented my employer on ETHGlobal hackathons**.
-  - Authored and maintained **core platform documentation**.
+**Lead of Developer Relations** | [AltLayer](https://www.altlayer.io/)<br/>
+<i>2022 Mar - 2023 Apr</i>
+- Architected and implemented the core EVM-compatible rollup protocol stack, utilizing **polkadot-sdk** and Rust as the foundation.
+- **Delivered cross-chain bridges** supporting ERC-20/ERC-721 transfer logic, work with DevOp team to manage production deployments.
+- Conducted online and offline workshops and **represented my employer on ETHGlobal hackathons**.
+- Authored and maintained **core platform documentation**.
 
-- **Developer Relation Engineer** | [Parity Technologies](https://www.parity.io/), 2019 - 2022:
-  - **Developed tutorials and demo projects** to highlight platform features.
-  - **Launched a multi-series online course** to demonstrate Substrate/Polkadot features and onboard new developers efficiently.
-  - Expanded Polkadot/Web3 developer community, **organizing 15+ AMAs and hackathons across Asia. On-boarded 500+ developers.**
-  - Maintain key relationships with Asia/China VCs and **liaise between VC and 10+ ecosystem teams** in hackathon and industry conferences.
+**Developer Relation Engineer** | [Parity Technologies](https://www.parity.io/)<br/>
+<i>2019 Sep - 2022 Feb</i>
+- **Developed tutorials and demo projects** to highlight platform features.
+- **Launched a multi-series online course** to demonstrate Substrate/Polkadot features and onboard new developers efficiently.
+- Expanded Polkadot/Web3 developer community, **organizing 15+ AMAs and hackathons across Asia. On-boarded 500+ developers.**
+- Maintain key relationships with Asia/China VCs and **liaise between VC and 10+ ecosystem teams** in hackathon and industry conferences.
 
-## Bootcamps / training programs completed
+## Web3 Bootcamps / Training Programs
 
-- [PSE Core Program](https://pse.dev/en/programs), study on programmable cryptography.
+- Ethereum Protocol Fellowship Cohort 6
 - [Rareskill Zero Knowledge Bootcamp](https://www.rareskills.io/zk-bootcamp), study on Groth16.
-- [Coursera: Stanford Cryptography I](https://www.coursera.org/learn/crypto), study on crytography fundamental.
-- [Consensys Ethereum Developer Program Bootcamp](https://consensys.io/academy/bootcamp), study on Solidity.
+- [PSE Core Program](https://pse.dev/en/programs), study on programmable cryptography.
