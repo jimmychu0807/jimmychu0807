@@ -23,7 +23,7 @@ For my professional experience, please refer to my [LinkedIn profile](https://ww
 - Key skills: Solidity, Foundry, ECDSA Signature, Typescript
 
 **zkVM Integration on Ethereum Consensus Client ([Ethereum Protocol Fellowship Cohort 6](https://github.com/eth-protocol-fellows/cohort-six))**<br/>
-<i>2025 Aug - Dec</i>
+<i>2025 Jun - Dec</i>
 - Integrated zkVM Brevis Pico ([PR#386](https://github.com/grandinetech/grandine/pull/386)) and Zisk ([PR#475](https://github.com/grandinetech/grandine/pull/475)) into Ethereum Client [Grandine](https://github.com/grandinetech/grandine) to benchmark Ethereum state transition function
 - [Devconnect 2025 Presentation](https://docs.google.com/presentation/d/1a1n-GMzIe9ALcUcrq4O_Tme6zmKSvh-lfnIxbqo7l5o/edit?usp=sharing)
 - Key skills: zkVM (Brevis Pico, RiscZero VM), Ethereum client (Grandine, Ream), Eth spec & testing, Rust
