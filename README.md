@@ -3,77 +3,46 @@
 | ----------------- | ------------- |
 | ![Github statistics](https://github-readme-stats-one-taupe-15.vercel.app/api?username=jimmychu0807&show_icons=true) | ![Github top languages](https://github-readme-stats-one-taupe-15.vercel.app/api/top-langs/?username=jimmychu0807&layout=compact&langs_count=5) |
 
-**7+ years web3 engineer** specializing in **smart contract**, **advanced cryptography** (ZKP, FHE), and **full-stack** (React/Next.js) development. **On-boarded 500+ developers**. Held **7 cohorts** of multi-series courses. **Organized Web3 Asia Summit** for Polkadot ecosystem with **700+ attendants** including VCs, startup teams, and node validators.
+8+ years of software engineering experience across blockchain protocols, smart contracts, and distributed systems, with 6 years of Solidity and 5 years of Rust. Selected for the Ethereum Protocol Fellowship (Cohort 6) — where I integrated zkVM provers into an Ethereum consensus client in Rust. 
+
+Architected and shipped a production EVM-compatible rollup protocol stack at AltLayer using polkadot-sdk and Rust. Deep expertise in advanced cryptography (ZKP , FHE, ECDSA), account abstraction, and cross-chain bridge design. Proven ability to design and communicate complex systems to technical and non-technical audiences across multiple organizations.
 
 For my professional experience, please refer to my [LinkedIn profile](https://www.linkedin.com/in/jimmychu0807).
 
 ## Technical Skills
 
-- **Smart Contract**: Solidity (5 yrs), Foundry, Hardhat, Tenderly txs simulator, account abstraction ERC-4337, ERC-7579, Pimlico permissionless, Rhinestone modulekit
-- **System/Protocol**: Rust (4 yrs)
-- **Front end**: Typescript (7 yrs), Next.js/React, wagmi, viem, ethers.js
-- **DevOps**: shell, Github CI, Docker, Vercel, AWS, Google Cloud
+- **Smart Contracts**: Solidity (6 yrs), Foundry, Hardhat, Tenderly, Account Abstraction (ERC-4337, ERC-7579, ERC-7702), Defi (ERC-4626, ERC-7887), T-REX (ERC-3643), Cross-chain (ERC-7683), Trustless agent (ERC-8004)
+- **Rust / Systems**: Rust (5 yrs), async/await, tokio, Substrate/polkadot-sdk, Ethereum consensus clients (Grandine, Ream), zkVM (RiscZero, Brevis Pico, Zisk)
+- **Cryptography**: ZK-SNARKs, PLONK, Groth16, FHE (Zama fhEVM), ECDSA, KZG commitments, circom, Semaphore
+- **Architecture**: Distributed systems design, cross-chain bridge design, protocol specification, EVM internals, rollup architecture, Layer 2 infrastructure
+- **Frontend / Integration**: TypeScript (7 yrs), Next.js/React, wagmi, viem, ethers.js
+- **DevOps**: Shell, GitHub CI, Docker, Kubernetes, Vercel, AWS, Google Cloud
 
-## Project Experience
+## Notable Projects
 
-**Openzeppelin Ethernaut Solver**<br/>
-<i>2026 Jan - Mar</i>
-- Solved 90% of [Openzeppelin Ethernaut Puzzles](https://ethernaut.openzeppelin.com/) (🧑🏻‍💻 [solutions repo](https://github.com/jimmychu0807/the-ethernaut))
-- Ranked #19 out of 9,978 participants on [the leaderboard](https://ethernaut.openzeppelin.com/leaderboard) (user: jimmychu0807)
-- Key skills: Solidity, Foundry, ECDSA Signature, Typescript
+### [**Ethereum Protocol Fellowship — Cohort 6**](https://github.com/jimmychu0807/epf-cohort6-zkvm)
+- Selected globally for the [Ethereum Protocol Fellowship](https://blog.ethereum.org/2025/04/10/epf-6), a flagship Ethereum Foundation program for core protocol contributors.
+- Integrated two zkVM provers — Brevis Pico ([PR#386](https://github.com/grandinetech/grandine/pull/386)) and Zisk ([PR#475](https://github.com/grandinetech/grandine/pull/475)) — into the [Grandine](https://github.com/grandinetech/grandine) Ethereum consensus client in Rust, benchmarking the Ethereum state transition function.
+- Delivered a [technical presentation at Devconnect 2025](https://docs.google.com/presentation/d/1a1n-GMzIe9ALcUcrq4O_Tme6zmKSvh-lfnIxbqo7l5o/edit?usp=sharing) on zkVM-based Ethereum state verification.
+- Key skills: Rust, zkVM (RiscZero, Brevis Pico, Zisk), Ethereum consensus client (Grandine, Ream), Ethereum spec & testing
 
-**zkVM Integration on Ethereum Consensus Client ([Ethereum Protocol Fellowship Cohort 6](https://github.com/eth-protocol-fellows/cohort-six))**<br/>
-<i>2025 Jun - Dec</i>
-- Integrated zkVM Brevis Pico ([PR#386](https://github.com/grandinetech/grandine/pull/386)) and Zisk ([PR#475](https://github.com/grandinetech/grandine/pull/475)) into Ethereum Client [Grandine](https://github.com/grandinetech/grandine) to benchmark Ethereum state transition function
-- [Devconnect 2025 Presentation](https://docs.google.com/presentation/d/1a1n-GMzIe9ALcUcrq4O_Tme6zmKSvh-lfnIxbqo7l5o/edit?usp=sharing)
-- Key skills: zkVM (Brevis Pico, RiscZero VM), Ethereum client (Grandine, Ream), Eth spec & testing, Rust
+### [**Anonymous Multi-Sig Smart Account Module**](https://github.com/jimmychu0807/semaphore-msa-modules)
+- Designed and implemented an ERC-4337 smart account module preserving multi-sig signer privacy using **Semaphore ZK proofs** — one of the first privacy-preserving account abstraction modules on mainnet.
+- Awarded a grant by the [**Ethereum Foundation**](https://blog.ethereum.org/2025/02/06/allocation-q4-24#:~:text=Semaphore%20Modular%20Smart%20Contract%20Validator%20Module).
+- Key skills: Solidity, Account Abstraction (ERC-4337, ERC-7579), [Semaphore](https://semaphore.pse.dev/), Tenderly, Rhinestone moduleKit, Pimlico
+- 🌐 [dApp website](https://semaphore-msa-modules.jimmychu0807.hk/) | 🎥 [Demo video](https://www.loom.com/share/0b800171a4f1491f9eedd4f555569e37) | 📜 [Write up](https://jimmychu0807.hk/semaphore-msa-modules)
 
-**Voting dApp on Zama fhEVM**<br/>
-<i>2025 Apr - May</i>
-- Built **privacy-preserving voting** dApp using Zama fhEVM. Respondent **answers are encrypted client-side** (FHE) with **aggregation/filter performed on-chain**
-- [Second-place winner](https://github.com/zama-ai/bounty-program#:~:text=%F0%9F%A5%88%202nd%20place%3A%20A%20submission%20by%20jimmychu0807) in Zama Bounty Program Season #8
-- 🌐 [dApp website](https://analytics-zama.vercel.app) | 🧑🏻‍💻 [Github repo](https://github.com/jimmychu0807/analytics-dapp-zama)  | 🎥 [Demo video](https://www.loom.com/share/13061bce424e4bed9d7f7551d3f5f33d) | 📜 [Write up](https://jimmychu0807.hk/analytics-zama)
-- Key skills: Zama fhEVM, Hardhat, Next.js, wagmi, viem, FHE
+### [**Privacy-Preserving Voting dApp — Zama fhEVM**](https://github.com/jimmychu0807/analytics-dapp-zama)
+- Built an on-chain voting system with fully homomorphic encryption: answers encrypted client-side, aggregation computed on-chain without decryption.
+- Won [2nd place](https://github.com/zama-ai/bounty-program#:~:text=%F0%9F%A5%88%202nd%20place%3A%20A%20submission%20by%20jimmychu0807) in Zama Bounty Program Season #8.
+- Key skills: Solidity, [Zama fhEVM](https://github.com/zama-ai/fhevm), FHE, Hardhat, wagmi, viem
+- 🌐 [dApp website](https://analytics-zama.vercel.app) | 🎥 [Demo video](https://www.loom.com/share/13061bce424e4bed9d7f7551d3f5f33d) | 📜 [Write up](https://jimmychu0807.hk/analytics-zama)
 
-**Anonymous Multi-Sig Smart Account Module with Semaphore ZK Modules**<br/>
-<i>2024 Nov - 2025 Mar</i>
-- Developed a multi-sig wallet that preserves signer privacy using [Semaphore](https://semaphore.pse.dev)
-- Project granted by [PSE Acceleration Program](https://github.com/privacy-scaling-explorations/acceleration-program/issues/72) / [Ethereum Foundation](https://blog.ethereum.org/2025/02/06/allocation-q4-24#:~:text=Semaphore%20Modular%20Smart%20Contract%20Validator%20Module)
-- 🌐 [dApp website](https://semaphore-msa-modules.jimmychu0807.hk/) | 🧑🏻‍💻 [Github repo](https://github.com/jimmychu0807/semaphore-msa-modules)  | 🎥 [Demo video](https://www.loom.com/share/0b800171a4f1491f9eedd4f555569e37) | 📜 [Write up](https://jimmychu0807.hk/semaphore-msa-modules)
-- Key skills: Semaphore, Account Abstraction, Tenderly tx simulator, Rhinestone moduleKit, Pimlico permissionless
+### [**OpenZeppelin Ethernaut — Security Challenges**](https://github.com/jimmychu0807/openzeppelin-ethernaut-solutions)
+- Ranked #18 out of 10k+ participants on the [Ethernaut leaderboard](https://ethernaut.openzeppelin.com/leaderboard#:~:text=18-,jimmychu0807,-39); solved 95% of challenges.
+- Key skills: Solidity, Foundry, ECDSA signature exploitation, Typescript
 
-**ZK Number Guessing Game (PSE Core Program Capstone Project)**<br/>
-<i>2024 Jul - 2024 Sep</i>
-- Webapp game that awards players making a guess closest to all participants' mean
-- Adopted zero-knowledge proof with commit-reveal scheme written in circom for the core logic
-- 🌐 [dApp website](https://guessing.jimmychu0807.hk) | 🧑🏻‍💻 [Github repo](https://github.com/jimmychu0807/number-guessing-game)  | 🎥 [Demo video](https://www.youtube.com/watch?v=MrhGMfzsAX0) | 📜 [Write up](https://jimmychu0807.hk/pse-core-capstone-project)
-- Key skills: Semaphore, Hardhat, Next.js, Circom 2, CircomJS
-
-## Professional Experience
-
-**Advisor on Developer Relations** | [CESS Network](https://cess.network/)<br/>
-<i>2023 May - 2024 Jun</i>
-- **Launched the v1 of [documentation portal](https://doc.cess.network/)**, providing an accessible entry-point for developers and accelerating project onboarding.
-- **Developed the [course curriculum for CESS](https://medium.com/@CESS_LAB/building-a-data-value-network-and-engaging-in-the-ecosystem-cess-course-now-open-for-all-79c56631061c)**, and **ran the first cohort** to on-board developer.
-- Designed and monitored the **developer on-boarding funnel, on-boarding 200+ developers** to the platform.
-- Delivered high-impact talk in **Polkadot Blockchain Academy HK 2024** in front of 100+ students.
-
-**Lead of Developer Relations** | [AltLayer](https://www.altlayer.io/)<br/>
-<i>2022 Mar - 2023 Apr</i>
-- Architected and implemented the core EVM-compatible rollup protocol stack, utilizing **polkadot-sdk** and Rust as the foundation.
-- **Delivered cross-chain bridges** supporting ERC-20/ERC-721 transfer logic, work with DevOp team to manage production deployments.
-- Conducted online and offline workshops and **represented my employer on ETHGlobal hackathons**.
-- Authored and maintained **core platform documentation**.
-
-**Developer Relation Engineer** | [Parity Technologies](https://www.parity.io/)<br/>
-<i>2019 Sep - 2022 Feb</i>
-- **Developed tutorials and demo projects** to highlight platform features.
-- **Launched a multi-series online course** to demonstrate Substrate/Polkadot features and onboard new developers efficiently.
-- Expanded Polkadot/Web3 developer community, **organizing 15+ AMAs and hackathons across Asia. On-boarded 500+ developers.**
-- Maintain key relationships with Asia/China VCs and **liaise between VC and 10+ ecosystem teams** in hackathon and industry conferences.
-
-## Web3 Bootcamps / Training Programs
-
-- Ethereum Protocol Fellowship Cohort 6
-- [Rareskill Zero Knowledge Bootcamp](https://www.rareskills.io/zk-bootcamp), study on Groth16.
-- [PSE Core Program](https://pse.dev/en/programs), study on programmable cryptography.
+### [**ZK Guessing Game — PSE Core Program Capstone**](https://github.com/jimmychu0807/zk-guessing-game)
+- Implemented commit-reveal scheme using ZK proofs (circom) for a multi-player on-chain game, ensuring fairness without revealing private inputs.
+- Key skills: Solidity, Circom 2, Semaphore, Hardhat, Next.js
+- 🌐 [dApp website](https://guessing.jimmychu0807.hk) | 🎥 [Demo video](https://www.youtube.com/watch?v=MrhGMfzsAX0) | 📜 [Write up](https://jimmychu0807.hk/pse-core-capstone-project)
