@@ -21,30 +21,28 @@ For my professional experience, please refer to my [LinkedIn profile](https://ww
 ## Notable Projects
 
 ### [**Ethereum Protocol Fellowship — Cohort 6**](https://github.com/jimmychu0807/epf-cohort6-zkvm)
-- Selected globally for the Ethereum Protocol Fellowship, a flagship Ethereum Foundation program for core protocol contributors.
+- Selected globally for the [Ethereum Protocol Fellowship](https://blog.ethereum.org/2025/04/10/epf-6), a flagship Ethereum Foundation program for core protocol contributors.
 - Integrated two zkVM provers — Brevis Pico ([PR#386](https://github.com/grandinetech/grandine/pull/386)) and Zisk ([PR#475](https://github.com/grandinetech/grandine/pull/475)) — into the [Grandine](https://github.com/grandinetech/grandine) Ethereum consensus client in Rust, benchmarking the Ethereum state transition function.
 - Delivered a [technical presentation at Devconnect 2025](https://docs.google.com/presentation/d/1a1n-GMzIe9ALcUcrq4O_Tme6zmKSvh-lfnIxbqo7l5o/edit?usp=sharing) on zkVM-based Ethereum state verification.
 - Key skills: Rust, zkVM (RiscZero, Brevis Pico, Zisk), Ethereum consensus client (Grandine, Ream), Ethereum spec & testing
 
-
-#### [**Anonymous Multi-Sig Smart Account Module**](https://github.com/jimmychu0807/semaphore-msa-modules)
+### [**Anonymous Multi-Sig Smart Account Module**](https://github.com/jimmychu0807/semaphore-msa-modules)
 - Designed and implemented an ERC-4337 smart account module preserving multi-sig signer privacy using **Semaphore ZK proofs** — one of the first privacy-preserving account abstraction modules on mainnet.
 - Awarded a grant by the [**Ethereum Foundation**](https://blog.ethereum.org/2025/02/06/allocation-q4-24#:~:text=Semaphore%20Modular%20Smart%20Contract%20Validator%20Module).
 - Key skills: Solidity, Account Abstraction (ERC-4337, ERC-7579), [Semaphore](https://semaphore.pse.dev/), Tenderly, Rhinestone moduleKit, Pimlico
 - 🌐 [dApp website](https://semaphore-msa-modules.jimmychu0807.hk/) | 🎥 [Demo video](https://www.loom.com/share/0b800171a4f1491f9eedd4f555569e37) | 📜 [Write up](https://jimmychu0807.hk/semaphore-msa-modules)
 
-
-##### [**Privacy-Preserving Voting dApp — Zama fhEVM**](https://github.com/jimmychu0807/analytics-dapp-zama)
+### [**Privacy-Preserving Voting dApp — Zama fhEVM**](https://github.com/jimmychu0807/analytics-dapp-zama)
 - Built an on-chain voting system with fully homomorphic encryption: answers encrypted client-side, aggregation computed on-chain without decryption.
 - Won [2nd place](https://github.com/zama-ai/bounty-program#:~:text=%F0%9F%A5%88%202nd%20place%3A%20A%20submission%20by%20jimmychu0807) in Zama Bounty Program Season #8.
 - Key skills: Solidity, [Zama fhEVM](https://github.com/zama-ai/fhevm), FHE, Hardhat, wagmi, viem
 - 🌐 [dApp website](https://analytics-zama.vercel.app) | 🎥 [Demo video](https://www.loom.com/share/13061bce424e4bed9d7f7551d3f5f33d) | 📜 [Write up](https://jimmychu0807.hk/analytics-zama)
 
-[**OpenZeppelin Ethernaut — Security Challenges**](https://github.com/jimmychu0807/openzeppelin-ethernaut-solutions)
+### [**OpenZeppelin Ethernaut — Security Challenges**](https://github.com/jimmychu0807/openzeppelin-ethernaut-solutions)
 - Ranked #18 out of 10k+ participants on the [Ethernaut leaderboard](https://ethernaut.openzeppelin.com/leaderboard#:~:text=18-,jimmychu0807,-39); solved 95% of challenges.
 - Key skills: Solidity, Foundry, ECDSA signature exploitation, Typescript
 
-[**ZK Guessing Game — PSE Core Program Capstone**](https://github.com/jimmychu0807/zk-guessing-game)
+### [**ZK Guessing Game — PSE Core Program Capstone**](https://github.com/jimmychu0807/zk-guessing-game)
 - Implemented commit-reveal scheme using ZK proofs (circom) for a multi-player on-chain game, ensuring fairness without revealing private inputs.
 - Key skills: Solidity, Circom 2, Semaphore, Hardhat, Next.js
 - 🌐 [dApp website](https://guessing.jimmychu0807.hk) | 🎥 [Demo video](https://www.youtube.com/watch?v=MrhGMfzsAX0) | 📜 [Write up](https://jimmychu0807.hk/pse-core-capstone-project)
