@@ -1,13 +1,13 @@
 ## Overview
 | GitHub statistics | Top languages |
 | ----------------- | ------------- |
-| ![Github statistics](https://github-readme-stats-one-taupe-15.vercel.app/api?username=jimmychu0807&show_icons=true) | ![Github top languages](https://github-readme-stats-one-taupe-15.vercel.app/api/top-langs/?username=jimmychu0807&layout=compact&langs_count=5) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=jimmychu0807&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmychu0807&layout=compact&theme=tokyonight&hide_border=true) |
 
 8+ years of software engineering experience across blockchain protocols, smart contracts, and distributed systems, with 6 years of Solidity and 5 years of Rust. Selected for the Ethereum Protocol Fellowship (Cohort 6) — where I integrated zkVM provers into an Ethereum consensus client in Rust. 
 
 Architected and shipped a production EVM-compatible rollup protocol stack at AltLayer using polkadot-sdk and Rust. Deep expertise in advanced cryptography (ZKP , FHE, ECDSA), account abstraction, and cross-chain bridge design. Proven ability to design and communicate complex systems to technical and non-technical audiences across multiple organizations.
 
-For my professional experience, please refer to my [LinkedIn profile](https://www.linkedin.com/in/jimmychu0807).
+[LinkedIn](https://linkedin.com/in/jimmychu0807) · [X](https://x.com/jimmy_chu0807) · [Blog](https://jimmychu0807.hk) · Open to roles
 
 ## Technical Skills
 
