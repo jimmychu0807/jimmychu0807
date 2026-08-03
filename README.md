@@ -1,7 +1,7 @@
 ## Overview
 | GitHub statistics | Top languages |
 | ----------------- | ------------- |
-| ![Github statistics](https://github-readme-stats-one-taupe-15.vercel.app/api?username=jimmychu0807&show_icons=true&hide_border=true) | ![Github top languages](https://github-readme-stats-one-taupe-15.vercel.app/api/top-langs/?username=jimmychu0807&layout=compact&langs_count=5&hide_border=true) |
+| ![Github statistics](https://github-stats-extended.vercel.app/api?username=jimmychu0807&rank_icon=github&hide_border=true&show_icons=true&include_all_commits=true&theme=default_repocard) | ![Github top languages](https://github-stats-extended.vercel.app/api/top-langs?username=jimmychu0807&langs_count=4&hide_border=true&theme=default_repocard) |
 
 8+ years of software engineering experience across blockchain protocols, smart contracts, and distributed systems, with 6 years of Solidity and 5 years of Rust. Selected for the Ethereum Protocol Fellowship (Cohort 6) — where I integrated zkVM provers into an Ethereum consensus client in Rust.
 
